@@ -1,3 +1,6 @@
 /target
 AGENTS.override.md
 .vscode
+# Lab security: exclude local editor configuration
+.vscode/
+.cursor/

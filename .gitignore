@@ -263,3 +263,6 @@ NADPE_examples/cross_arch/results/
 # Design notes written while the work was being planned. Working documents, not
 # something the fork publishes.
 docs/superpowers/
+# Lab security: exclude local editor configuration
+.vscode/
+.cursor/
